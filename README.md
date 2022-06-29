@@ -1,2 +1,2 @@
 # python-assignments
-this depository is for saving python assignments I have done and will continue to do througout my bootcamp training.
+I will be adding some python assignments to this repository every now and then.
